@@ -1,3 +1,7 @@
 # Informatica
 Informatica
-lol
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>woordzoeker</title>
